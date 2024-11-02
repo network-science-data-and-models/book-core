@@ -1,4 +1,4 @@
-#!/bin/bash                                 # this is in the bash scripting language
+#!/bin/bash
 #SBATCH -J rumor_model                      # Job name
 #SBATCH -N 1                                # Number of nodes
 #SBATCH -n 1                                # Number of tasks
@@ -10,5 +10,5 @@
 
 module load anaconda3/2022.05
 source activate /courses/PHYS7332.202510/shared/phys7332-env/
-python3 rumor.py
+python3 /courses/PHYS7332.202510/staff/smith.alyss/network-science-data-book/scripts/rumor.py
 
