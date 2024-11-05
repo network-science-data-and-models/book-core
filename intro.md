@@ -137,10 +137,10 @@ Students should leave this class with an ever-growing codebase of resources for 
 | Fri, Nov 1, 24 | --- |
 |  |  |
 | Wed, Nov 6, 24 | **Class 18:** Dynamics on Networks 2 — Compartmental Models |
-| Thu, Nov 7, 24 | **Class 19:** Big Data 2 — Scalability |
+| Thu, Nov 7, 24 | **Class 19:** Dynamics on Networks 3 — Agent-Based Models |
 | Fri, Nov 8, 24 | **Assignment 3 due November 8** |
 |  |  |
-| Wed, Nov 13, 24 | **Class 20:** Statistics for Social Networks: ERGMs |
+| Wed, Nov 13, 24 | **Class 20:** Big Data 2 — Scalability |
 | Thu, Nov 14, 24 | **Class 21:** Network Sampling |
 | Fri, Nov 15, 24 | --- |
 |  |  |

@@ -21,8 +21,8 @@ chapters:
 - file: class_15_machine_learning2
 - file: class_16_dynamics1
 - file: class_17_dynamics2
+- file: class_18_dynamics3
 - file: class_19_bigdata2
-- file: class_20_ergms
 - file: class_21_sampling
 - file: class_22_filtering_thresholding
 - file: class_23_temporal_networks
