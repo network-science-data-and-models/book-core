@@ -23,7 +23,8 @@ chapters:
 - file: class_17_dynamics2
 - file: class_18_dynamics3
 - file: class_19_bigdata2
+- file: class_20_sampling_theory
 - file: class_21_sampling
-- file: class_22_filtering_thresholding
+# - file: class_22_filtering_thresholding
 - file: class_23_temporal_networks
 - file: class_24_spatial
