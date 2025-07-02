@@ -23,9 +23,9 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://network-science-data-and-models.github.io/book-core  # Online location of your book
-  branch: main  # Which branch of the repository should be used when creating links (optional)
-  repository_provider: github
+  url: https://network-science-data-and-models.github.io/book-core/
+  branch: master
+  provider: github
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
