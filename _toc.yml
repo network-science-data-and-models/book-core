@@ -4,27 +4,28 @@
 format: jb-book
 root: intro
 chapters:
-- file: class_00_github_computing_setup
-- file: class_01_python_refresher
-- file: class_02_networkx1
-- file: class_03_networkx2
-- file: class_04_distributions
-- file: class_05_scraping1
-- file: class_06_scraping2
-- file: class_07_bigdata1
-- file: class_08_datascience1
-- file: class_09_datascience2
-- file: class_10_communities1
-- file: class_11_communities2
-- file: class_12_visualization_python
-- file: class_14_machine_learning1
-- file: class_15_machine_learning2
-- file: class_16_dynamics1
-- file: class_17_dynamics2
-- file: class_18_dynamics3
-- file: class_19_bigdata2
-- file: class_20_sampling_theory
-- file: class_21_sampling
-# - file: class_22_filtering_thresholding
-- file: class_23_temporal_networks
-- file: class_24_spatial
+- file: chapter_00_github_computing_setup
+- file: chapter_01_python_refresher
+- file: chapter_02_networkx1
+- file: chapter_03_networkx2
+- file: chapter_04_distributions
+- file: chapter_05_scraping1
+- file: chapter_06_scraping2
+- file: chapter_07_bigdata1
+- file: chapter_08_datascience1
+- file: chapter_09_datascience2
+- file: chapter_10_communities1
+- file: chapter_11_communities2
+- file: chapter_12_visualization_python
+- file: chapter_14_machine_learning1
+- file: chapter_15_machine_learning2
+- file: chapter_16_dynamics1
+- file: chapter_17_dynamics2
+- file: chapter_18_dynamics3
+- file: chapter_19_bigdata2
+- file: chapter_20_sampling_theory
+- file: chapter_21_sampling
+# - file: chapter_22_filtering_thresholding
+- file: chapter_23_temporal_networks
+- file: chapter_24_spatial
+- file: color-explorer
