@@ -25,7 +25,9 @@ bibtex_bibfiles:
 repository:
   url: https://network-science-data-and-models.github.io/book-core/
   branch: master
-  provider: github
+
+# tell Jupyter-Book this is hosted on GitHub
+repository_provider: github
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
